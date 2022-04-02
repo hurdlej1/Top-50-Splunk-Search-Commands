@@ -1,0 +1,501 @@
+_raw,_time,bytes,bytes_in,bytes_out,date_hour,date_mday,date_minute,date_month,date_second,date_wday,date_year,date_zone,eventtype,host,http_method,http_referrer,http_user_agent,index,linecount,product,punct,response_time,response_time_microseconds,source,sourcetype,splunk_server,splunk_server_group,src_ip,status,status_description,status_type,tag,tag::eventtype,timeendpos,timestartpos,uri_path,vendor,vendor_product,version
+"[12/Oct/2019:00:59:35 +0000] 72.66.78.22 ""POST /solr/stage_healthit/update/?commit=true HTTP/1.1"" 200 2824 550 463167 ""-"" ""python-requests/2.22.0""",2019-10-12T00:59:35.000+0000,3374,2824,550,0,12,59,october,35,saturday,2019,0,access_log_event,aws-apache01,POST,-,python-requests/2.22.0,hyio_nrc,1,Web Server,"[//:::_+]_..._""_////?=_/.""_____""-""_""-/..""",463.167,463167,/var/log/apache2/solr.hyioadmin.org-access.log,hyio:nrc:apache:access,NRC-NFS,,72.66.78.22,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/solr/stage_healthit/update/?commit=true,Apache,Apache Web Server,HTTP/1.1
+"[12/Oct/2019:00:59:35 +0000] 72.66.78.22 ""POST /solr/stage_healthit/update/?commit=true HTTP/1.1"" 200 3065 550 577255 ""-"" ""python-requests/2.22.0""",2019-10-12T00:59:35.000+0000,3615,3065,550,0,12,59,october,35,saturday,2019,0,access_log_event,aws-apache01,POST,-,python-requests/2.22.0,hyio_nrc,1,Web Server,"[//:::_+]_..._""_////?=_/.""_____""-""_""-/..""",577.255,577255,/var/log/apache2/solr.hyioadmin.org-access.log,hyio:nrc:apache:access,NRC-NFS,,72.66.78.22,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/solr/stage_healthit/update/?commit=true,Apache,Apache Web Server,HTTP/1.1
+"[12/Oct/2019:00:59:35 +0000] 73.213.216.40 ""GET /en-US/splunkd/__raw/services/search/shelper?output_mode=json&snippet=true&snippetEmbedJS=false&namespace=search&search=search+index%3Dhyio_nrc+sourcetype%3Dhyio%3Anrc%3Aapache%3A&useTypeahead=true&showCommandHelp=true&showCommandHistory=true&showFieldInfo=false&_=1570841884483 HTTP/1.1"" 200 956 6358 25170 ""-"" ""Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36""",2019-10-12T00:59:35.000+0000,7314,956,6358,0,12,59,october,35,saturday,2019,0,access_log_event,aws-apache01,GET,-,"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36",hyio_nrc,1,Web Server,"[//:::_+]_..._""_/-/////?=&=&=&=&=+%+%%%%&=&=&=&=&=",25.17,25170,/var/log/apache2/splunk.hyioadmin.org-access.log,hyio:nrc:apache:access,NRC-NFS,,73.213.216.40,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/en-US/splunkd/__raw/services/search/shelper?output_mode=json&snippet=true&snippetEmbedJS=false&namespace=search&search=search+index%3Dhyio_nrc+sourcetype%3Dhyio%3Anrc%3Aapache%3A&useTypeahead=true&showCommandHelp=true&showCommandHistory=true&showFieldInfo=false&_=1570841884483,Apache,Apache Web Server,HTTP/1.1
+"[12/Oct/2019:00:59:34 +0000] 72.66.78.22 ""POST /solr/stage_healthit/update/?commit=true HTTP/1.1"" 200 2441 550 335215 ""-"" ""python-requests/2.22.0""",2019-10-12T00:59:34.000+0000,2991,2441,550,0,12,59,october,34,saturday,2019,0,access_log_event,aws-apache01,POST,-,python-requests/2.22.0,hyio_nrc,1,Web Server,"[//:::_+]_..._""_////?=_/.""_____""-""_""-/..""",335.215,335215,/var/log/apache2/solr.hyioadmin.org-access.log,hyio:nrc:apache:access,NRC-NFS,,72.66.78.22,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/solr/stage_healthit/update/?commit=true,Apache,Apache Web Server,HTTP/1.1
+"[12/Oct/2019:00:59:34 +0000] 72.66.78.22 ""POST /solr/stage_healthit/update/?commit=true HTTP/1.1"" 200 13821 550 374890 ""-"" ""python-requests/2.22.0""",2019-10-12T00:59:34.000+0000,14371,13821,550,0,12,59,october,34,saturday,2019,0,access_log_event,aws-apache01,POST,-,python-requests/2.22.0,hyio_nrc,1,Web Server,"[//:::_+]_..._""_////?=_/.""_____""-""_""-/..""",374.89,374890,/var/log/apache2/solr.hyioadmin.org-access.log,hyio:nrc:apache:access,NRC-NFS,,72.66.78.22,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/solr/stage_healthit/update/?commit=true,Apache,Apache Web Server,HTTP/1.1
+"[12/Oct/2019:00:59:34 +0000] 72.66.78.22 ""POST /solr/stage_healthit/update/?commit=true HTTP/1.1"" 200 3386 550 335833 ""-"" ""python-requests/2.22.0""",2019-10-12T00:59:34.000+0000,3936,3386,550,0,12,59,october,34,saturday,2019,0,access_log_event,aws-apache01,POST,-,python-requests/2.22.0,hyio_nrc,1,Web Server,"[//:::_+]_..._""_////?=_/.""_____""-""_""-/..""",335.833,335833,/var/log/apache2/solr.hyioadmin.org-access.log,hyio:nrc:apache:access,NRC-NFS,,72.66.78.22,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/solr/stage_healthit/update/?commit=true,Apache,Apache Web Server,HTTP/1.1
+"[12/Oct/2019:00:59:34 +0000] 35.171.254.167 ""GET /support/rest/capabilities/navigation?lang=en-US HTTP/1.1"" 200 656 7626 2725 ""-"" ""Confluence-6.15.2 (10443)""",2019-10-12T00:59:34.000+0000,8282,656,7626,0,12,59,october,34,saturday,2019,0,access_log_event,aws-apache01,GET,-,Confluence-6.15.2 (10443),hyio_nrc,1,Web Server,"[//:::_+]_..._""_////?=-_/.""_____""-""_""-.._()""",2.725,2725,/var/log/apache2/oncprojectracking.healthit.com-access.log,hyio:nrc:apache:access,NRC-NFS,,35.171.254.167,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/support/rest/capabilities/navigation?lang=en-US,Apache,Apache Web Server,HTTP/1.1
+"[12/Oct/2019:00:59:34 +0000] 73.213.216.40 ""GET /en-US/splunkd/__raw/services/search/shelper?output_mode=json&snippet=true&snippetEmbedJS=false&namespace=search&search=search+index%3Dhyio_nrc+sourcetype%3Dhyio%3Anrc%3Aapache%3Aer&useTypeahead=true&showCommandHelp=true&showCommandHistory=true&showFieldInfo=false&_=1570841884482 HTTP/1.1"" 200 958 6324 25187 ""-"" ""Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36""",2019-10-12T00:59:34.000+0000,7282,958,6324,0,12,59,october,34,saturday,2019,0,access_log_event,aws-apache01,GET,-,"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36",hyio_nrc,1,Web Server,"[//:::_+]_..._""_/-/////?=&=&=&=&=+%+%%%%&=&=&=&=&=",25.187,25187,/var/log/apache2/splunk.hyioadmin.org-access.log,hyio:nrc:apache:access,NRC-NFS,,73.213.216.40,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/en-US/splunkd/__raw/services/search/shelper?output_mode=json&snippet=true&snippetEmbedJS=false&namespace=search&search=search+index%3Dhyio_nrc+sourcetype%3Dhyio%3Anrc%3Aapache%3Aer&useTypeahead=true&showCommandHelp=true&showCommandHistory=true&showFieldInfo=false&_=1570841884482,Apache,Apache Web Server,HTTP/1.1
+"[12/Oct/2019:00:59:34 +0000] 73.213.216.40 ""GET /en-US/splunkd/__raw/services/search/shelper?output_mode=json&snippet=true&snippetEmbedJS=false&namespace=search&search=search+index%3Dhyio_nrc+sourcetype%3Dhyio%3Anrc%3Aapache%3Aerro&useTypeahead=true&showCommandHelp=true&showCommandHistory=true&showFieldInfo=false&_=1570841884481 HTTP/1.1"" 200 960 6324 34110 ""-"" ""Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36""",2019-10-12T00:59:34.000+0000,7284,960,6324,0,12,59,october,34,saturday,2019,0,access_log_event,aws-apache01,GET,-,"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36",hyio_nrc,1,Web Server,"[//:::_+]_..._""_/-/////?=&=&=&=&=+%+%%%%&=&=&=&=&=",34.11,34110,/var/log/apache2/splunk.hyioadmin.org-access.log,hyio:nrc:apache:access,NRC-NFS,,73.213.216.40,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/en-US/splunkd/__raw/services/search/shelper?output_mode=json&snippet=true&snippetEmbedJS=false&namespace=search&search=search+index%3Dhyio_nrc+sourcetype%3Dhyio%3Anrc%3Aapache%3Aerro&useTypeahead=true&showCommandHelp=true&showCommandHistory=true&showFieldInfo=false&_=1570841884481,Apache,Apache Web Server,HTTP/1.1
+"[12/Oct/2019:00:59:33 +0000] 54.213.57.151 ""GET /rest/products?developerId=1881 HTTP/1.1"" 200 1756 3343 1058170 ""https://chpl.hyiodev.org/"" ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36""",2019-10-12T00:59:33.000+0000,5099,1756,3343,0,12,59,october,33,saturday,2019,0,access_log_event,aws-apache01,GET,https://chpl.hyiodev.org/,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36",hyio_nrc,1,Web Server,"[//:::_+]_..._""_//?=_/.""_____""://../""_""/._(;__)_/.",1058.17,1058170,/var/log/apache2/chpl.hyiodev.org-access.log,hyio:nrc:apache:access,NRC-NFS,,54.213.57.151,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/rest/products?developerId=1881,Apache,Apache Web Server,HTTP/1.1
+"[12/Oct/2019:00:59:33 +0000] 54.213.57.151 ""GET /rest/developers HTTP/1.1"" 200 1741 783161 297409 ""https://chpl.hyiodev.org/"" ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36""",2019-10-12T00:59:33.000+0000,784902,1741,783161,0,12,59,october,33,saturday,2019,0,access_log_event,aws-apache01,GET,https://chpl.hyiodev.org/,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36",hyio_nrc,1,Web Server,"[//:::_+]_..._""_//_/.""_____""://../""_""/._(;__)_/._(",297.409,297409,/var/log/apache2/chpl.hyiodev.org-access.log,hyio:nrc:apache:access,NRC-NFS,,54.213.57.151,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/rest/developers,Apache,Apache Web Server,HTTP/1.1
+"[12/Oct/2019:00:59:33 +0000] 72.66.78.22 ""POST /solr/stage_healthit/update/?commit=true HTTP/1.1"" 200 3379 550 535217 ""-"" ""python-requests/2.22.0""",2019-10-12T00:59:33.000+0000,3929,3379,550,0,12,59,october,33,saturday,2019,0,access_log_event,aws-apache01,POST,-,python-requests/2.22.0,hyio_nrc,1,Web Server,"[//:::_+]_..._""_////?=_/.""_____""-""_""-/..""",535.217,535217,/var/log/apache2/solr.hyioadmin.org-access.log,hyio:nrc:apache:access,NRC-NFS,,72.66.78.22,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/solr/stage_healthit/update/?commit=true,Apache,Apache Web Server,HTTP/1.1
+"[12/Oct/2019:00:59:33 +0000] 73.213.216.40 ""GET /en-US/splunkd/__raw/services/server/health/splunkd?output_mode=json&_=1570841903476 HTTP/1.1"" 200 1338 1479 1520 ""-"" ""Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36""",2019-10-12T00:59:33.000+0000,2817,1338,1479,0,12,59,october,33,saturday,2019,0,access_log_event,aws-apache01,GET,-,"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36",hyio_nrc,1,Web Server,"[//:::_+]_..._""_/-//////?=&=_/.""_____""-""_""/._(__.;",1.52,1520,/var/log/apache2/splunk.hyioadmin.org-access.log,hyio:nrc:apache:access,NRC-NFS,,73.213.216.40,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/en-US/splunkd/__raw/services/server/health/splunkd?output_mode=json&_=1570841903476,Apache,Apache Web Server,HTTP/1.1
+"[12/Oct/2019:00:59:33 +0000] 73.213.216.40 ""GET /en-US/splunkd/__raw/servicesNS/nobody/search/search/jobs/rt_md_1570841904.51?output_mode=json&_=1570841903475 HTTP/1.1"" 200 788 2299 1760 ""-"" ""Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36""",2019-10-12T00:59:33.000+0000,3087,788,2299,0,12,59,october,33,saturday,2019,0,access_log_event,aws-apache01,GET,-,"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36",hyio_nrc,1,Web Server,"[//:::_+]_..._""_/-////////.?=&=_/.""_____""-""_""/._(_",1.76,1760,/var/log/apache2/splunk.hyioadmin.org-access.log,hyio:nrc:apache:access,NRC-NFS,,73.213.216.40,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/en-US/splunkd/__raw/servicesNS/nobody/search/search/jobs/rt_md_1570841904.51?output_mode=json&_=1570841903475,Apache,Apache Web Server,HTTP/1.1
+"[12/Oct/2019:00:59:33 +0000] 73.213.216.40 ""GET /en-US/splunkd/__raw/services/server/health/splunkd?output_mode=json&_=1570841884480 HTTP/1.1"" 200 762 1341 1080 ""-"" ""Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36""",2019-10-12T00:59:33.000+0000,2103,762,1341,0,12,59,october,33,saturday,2019,0,access_log_event,aws-apache01,GET,-,"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36",hyio_nrc,1,Web Server,"[//:::_+]_..._""_/-//////?=&=_/.""_____""-""_""/._(__.;",1.08,1080,/var/log/apache2/splunk.hyioadmin.org-access.log,hyio:nrc:apache:access,NRC-NFS,,73.213.216.40,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/en-US/splunkd/__raw/services/server/health/splunkd?output_mode=json&_=1570841884480,Apache,Apache Web Server,HTTP/1.1
+"::1 - - [12/Oct/2019:00:59:33 +0000] ""OPTIONS * HTTP/1.0"" 200 125 ""-"" ""Apache/2.4.7 (Ubuntu) mod_fcgid/2.3.9 PHP/5.5.9-1ubuntu4.29 OpenSSL/1.0.1f (internal dummy connection)""",2019-10-12T00:59:33.000+0000,,,,0,12,59,october,33,saturday,2019,0,access_log_event,aws-apache01,,,,hyio_nrc,1,Web Server,"::_-_-_[//:::_+]_""_*_/.""___""-""_""/.._()_/.._/..-._/",,,/var/log/apache2/access.log,hyio:nrc:apache:access,NRC-NFS,,,,,,"activity
+inventory
+web","activity
+inventory
+web",35,9,,Apache,Apache Web Server,
+"[12/Oct/2019:00:59:33 +0000] 54.213.57.151 ""GET /rest/developers/1881 HTTP/1.1"" 200 1746 1737 95952 ""https://chpl.hyiodev.org/"" ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36""",2019-10-12T00:59:33.000+0000,3483,1746,1737,0,12,59,october,33,saturday,2019,0,access_log_event,aws-apache01,GET,https://chpl.hyiodev.org/,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36",hyio_nrc,1,Web Server,"[//:::_+]_..._""_///_/.""_____""://../""_""/._(;__)_/._",95.952,95952,/var/log/apache2/chpl.hyiodev.org-access.log,hyio:nrc:apache:access,NRC-NFS,,54.213.57.151,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/rest/developers/1881,Apache,Apache Web Server,HTTP/1.1
+"[12/Oct/2019:00:59:33 +0000] 72.66.78.22 ""POST /solr/stage_healthit/update/?commit=true HTTP/1.1"" 200 3031 550 342614 ""-"" ""python-requests/2.22.0""",2019-10-12T00:59:33.000+0000,3581,3031,550,0,12,59,october,33,saturday,2019,0,access_log_event,aws-apache01,POST,-,python-requests/2.22.0,hyio_nrc,1,Web Server,"[//:::_+]_..._""_////?=_/.""_____""-""_""-/..""",342.614,342614,/var/log/apache2/solr.hyioadmin.org-access.log,hyio:nrc:apache:access,NRC-NFS,,72.66.78.22,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/solr/stage_healthit/update/?commit=true,Apache,Apache Web Server,HTTP/1.1
+"::1 - - [12/Oct/2019:00:59:32 +0000] ""OPTIONS * HTTP/1.0"" 200 125 ""-"" ""Apache/2.4.7 (Ubuntu) mod_fcgid/2.3.9 PHP/5.5.9-1ubuntu4.29 OpenSSL/1.0.1f (internal dummy connection)""",2019-10-12T00:59:32.000+0000,,,,0,12,59,october,32,saturday,2019,0,access_log_event,aws-apache01,,,,hyio_nrc,1,Web Server,"::_-_-_[//:::_+]_""_*_/.""___""-""_""/.._()_/.._/..-._/",,,/var/log/apache2/access.log,hyio:nrc:apache:access,NRC-NFS,,,,,,"activity
+inventory
+web","activity
+inventory
+web",35,9,,Apache,Apache Web Server,
+"[12/Oct/2019:00:59:32 +0000] 72.66.78.22 ""POST /solr/stage_healthit/update/?commit=true HTTP/1.1"" 200 2568 550 338164 ""-"" ""python-requests/2.22.0""",2019-10-12T00:59:32.000+0000,3118,2568,550,0,12,59,october,32,saturday,2019,0,access_log_event,aws-apache01,POST,-,python-requests/2.22.0,hyio_nrc,1,Web Server,"[//:::_+]_..._""_////?=_/.""_____""-""_""-/..""",338.164,338164,/var/log/apache2/solr.hyioadmin.org-access.log,hyio:nrc:apache:access,NRC-NFS,,72.66.78.22,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/solr/stage_healthit/update/?commit=true,Apache,Apache Web Server,HTTP/1.1
+"[12/Oct/2019:00:59:32 +0000] 72.66.78.22 ""POST /solr/stage_healthit/update/?commit=true HTTP/1.1"" 200 2611 550 338456 ""-"" ""python-requests/2.22.0""",2019-10-12T00:59:32.000+0000,3161,2611,550,0,12,59,october,32,saturday,2019,0,access_log_event,aws-apache01,POST,-,python-requests/2.22.0,hyio_nrc,1,Web Server,"[//:::_+]_..._""_////?=_/.""_____""-""_""-/..""",338.456,338456,/var/log/apache2/solr.hyioadmin.org-access.log,hyio:nrc:apache:access,NRC-NFS,,72.66.78.22,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/solr/stage_healthit/update/?commit=true,Apache,Apache Web Server,HTTP/1.1
+"[12/Oct/2019:00:59:32 +0000] 54.228.16.33 ""GET /support/rest/applinks/latest/manifest HTTP/1.1"" 200 694 8479 2453 ""-"" ""Amazon-Route53-Health-Check-Service (ref abb692bc-19c6-4a13-b1ed-4225f2b3ad43; report http://amzn.to/1vsZADi)""",2019-10-12T00:59:32.000+0000,9173,694,8479,0,12,59,october,32,saturday,2019,0,access_log_event,aws-apache01,GET,-,Amazon-Route53-Health-Check-Service (ref abb692bc-19c6-4a13-b1ed-4225f2b3ad43; report http://amzn.to/1vsZADi),hyio_nrc,1,Web Server,"[//:::_+]_..._""_/////_/.""_____""-""_""----_(_----;__:",2.453,2453,/var/log/apache2/oncprojectracking.healthit.com-access.log,hyio:nrc:apache:access,NRC-NFS,,54.228.16.33,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/support/rest/applinks/latest/manifest,Apache,Apache Web Server,HTTP/1.1
+"::1 - - [12/Oct/2019:00:59:31 +0000] ""OPTIONS * HTTP/1.0"" 200 125 ""-"" ""Apache/2.4.7 (Ubuntu) mod_fcgid/2.3.9 PHP/5.5.9-1ubuntu4.29 OpenSSL/1.0.1f (internal dummy connection)""",2019-10-12T00:59:31.000+0000,,,,0,12,59,october,31,saturday,2019,0,access_log_event,aws-apache01,,,,hyio_nrc,1,Web Server,"::_-_-_[//:::_+]_""_*_/.""___""-""_""/.._()_/.._/..-._/",,,/var/log/apache2/access.log,hyio:nrc:apache:access,NRC-NFS,,,,,,"activity
+inventory
+web","activity
+inventory
+web",35,9,,Apache,Apache Web Server,
+"[12/Oct/2019:00:59:31 +0000] 3.209.42.218 ""GET /datadashboard/data/eRx-2011-2013.xml HTTP/1.0"" 200 775 52531 998 ""-"" ""-""",2019-10-12T00:59:31.000+0000,53306,775,52531,0,12,59,october,31,saturday,2019,0,access_log_event,aws-apache01,GET,-,-,hyio_nrc,1,Web Server,"[//:::_+]_..._""_///--._/.""_____""-""_""-""",0.998,998,/var/log/apache2/dashboard.healthit.com-access.log,hyio:nrc:apache:access,NRC-NFS,,3.209.42.218,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/datadashboard/data/eRx-2011-2013.xml,Apache,Apache Web Server,HTTP/1.0
+"[12/Oct/2019:00:59:31 +0000] 3.209.42.218 ""GET /datadashboard/data/hospital-mu-public-health-measures.xml HTTP/1.0"" 200 796 71847 155333 ""-"" ""-""",2019-10-12T00:59:31.000+0000,72643,796,71847,0,12,59,october,31,saturday,2019,0,access_log_event,aws-apache01,GET,-,-,hyio_nrc,1,Web Server,"[//:::_+]_..._""_///----._/.""_____""-""_""-""",155.333,155333,/var/log/apache2/dashboard.healthit.com-access.log,hyio:nrc:apache:access,NRC-NFS,,3.209.42.218,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/datadashboard/data/hospital-mu-public-health-measures.xml,Apache,Apache Web Server,HTTP/1.0
+"[12/Oct/2019:00:59:31 +0000] 3.209.42.218 ""GET /datadashboard/data/policy-levers-state-poc.xml HTTP/1.0"" 200 785 22684 714 ""-"" ""-""",2019-10-12T00:59:31.000+0000,23469,785,22684,0,12,59,october,31,saturday,2019,0,access_log_event,aws-apache01,GET,-,-,hyio_nrc,1,Web Server,"[//:::_+]_..._""_///---._/.""_____""-""_""-""",0.714,714,/var/log/apache2/dashboard.healthit.com-access.log,hyio:nrc:apache:access,NRC-NFS,,3.209.42.218,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/datadashboard/data/policy-levers-state-poc.xml,Apache,Apache Web Server,HTTP/1.0
+"[12/Oct/2019:00:59:31 +0000] 72.66.78.22 ""POST /solr/stage_healthit/update/?commit=true HTTP/1.1"" 200 2998 550 397823 ""-"" ""python-requests/2.22.0""",2019-10-12T00:59:31.000+0000,3548,2998,550,0,12,59,october,31,saturday,2019,0,access_log_event,aws-apache01,POST,-,python-requests/2.22.0,hyio_nrc,1,Web Server,"[//:::_+]_..._""_////?=_/.""_____""-""_""-/..""",397.823,397823,/var/log/apache2/solr.hyioadmin.org-access.log,hyio:nrc:apache:access,NRC-NFS,,72.66.78.22,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/solr/stage_healthit/update/?commit=true,Apache,Apache Web Server,HTTP/1.1
+"[12/Oct/2019:00:59:31 +0000] 72.66.78.22 ""POST /solr/stage_healthit/update/?commit=true HTTP/1.1"" 200 2688 550 536884 ""-"" ""python-requests/2.22.0""",2019-10-12T00:59:31.000+0000,3238,2688,550,0,12,59,october,31,saturday,2019,0,access_log_event,aws-apache01,POST,-,python-requests/2.22.0,hyio_nrc,1,Web Server,"[//:::_+]_..._""_////?=_/.""_____""-""_""-/..""",536.884,536884,/var/log/apache2/solr.hyioadmin.org-access.log,hyio:nrc:apache:access,NRC-NFS,,72.66.78.22,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/solr/stage_healthit/update/?commit=true,Apache,Apache Web Server,HTTP/1.1
+"3.209.42.218 - - [12/Oct/2019:00:59:31 +0000] ""GET /datadashboard/data/eRx-2011-2013.xml HTTP/1.0"" 302 592 ""-"" ""-""",2019-10-12T00:59:31.000+0000,,,,0,12,59,october,31,saturday,2019,0,access_log_event,aws-apache01,,,,hyio_nrc,1,Web Server,"..._-_-_[//:::_+]_""_///--._/.""___""-""_""-""",,,/var/log/apache2/http-access.log,hyio:nrc:apache:access,NRC-NFS,,,,,,"activity
+inventory
+web","activity
+inventory
+web",44,18,,Apache,Apache Web Server,
+"3.209.42.218 - - [12/Oct/2019:00:59:31 +0000] ""GET /datadashboard/data/hospital-mu-public-health-measures.xml HTTP/1.0"" 302 634 ""-"" ""-""",2019-10-12T00:59:31.000+0000,,,,0,12,59,october,31,saturday,2019,0,access_log_event,aws-apache01,,,,hyio_nrc,1,Web Server,"..._-_-_[//:::_+]_""_///----._/.""___""-""_""-""",,,/var/log/apache2/http-access.log,hyio:nrc:apache:access,NRC-NFS,,,,,,"activity
+inventory
+web","activity
+inventory
+web",44,18,,Apache,Apache Web Server,
+"3.209.42.218 - - [12/Oct/2019:00:59:31 +0000] ""GET /datadashboard/data/policy-levers-state-poc.xml HTTP/1.0"" 302 612 ""-"" ""-""",2019-10-12T00:59:31.000+0000,,,,0,12,59,october,31,saturday,2019,0,access_log_event,aws-apache01,,,,hyio_nrc,1,Web Server,"..._-_-_[//:::_+]_""_///---._/.""___""-""_""-""",,,/var/log/apache2/http-access.log,hyio:nrc:apache:access,NRC-NFS,,,,,,"activity
+inventory
+web","activity
+inventory
+web",44,18,,Apache,Apache Web Server,
+"[12/Oct/2019:00:59:31 +0000] 66.249.66.32 ""GET /QualityMeasuresListing?system=mu&stage=Stage%25202&sortField=570&sortDirection=ascending&resultsPerPage=100&filter590=April+2014+EH&filter590=July+2014+EP&enableAsynchronousLoading=true&filter570=CMS155v4 HTTP/1.1"" 200 835 74719 29021 ""-"" ""Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)""",2019-10-12T00:59:31.000+0000,75554,835,74719,0,12,59,october,31,saturday,2019,0,access_log_event,aws-apache01,GET,-,"Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",hyio_nrc,1,Web Server,"[//:::_+]_..._""_/?=&=%&=&=&=&=++&=++&=&=_/.""_____""",29.021,29021,/var/log/apache2/ushik.hyio.com-access.log,hyio:nrc:apache:access,NRC-NFS,,66.249.66.32,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/QualityMeasuresListing?system=mu&stage=Stage%25202&sortField=570&sortDirection=ascending&resultsPerPage=100&filter590=April+2014+EH&filter590=July+2014+EP&enableAsynchronousLoading=true&filter570=CMS155v4,Apache,Apache Web Server,HTTP/1.1
+"[12/Oct/2019:00:59:30 +0000] 3.209.42.218 ""GET /datadashboard/data/state-policy-levers-activities.xml HTTP/1.0"" 200 792 53798 827623 ""-"" ""-""",2019-10-12T00:59:30.000+0000,54590,792,53798,0,12,59,october,30,saturday,2019,0,access_log_event,aws-apache01,GET,-,-,hyio_nrc,1,Web Server,"[//:::_+]_..._""_///---._/.""_____""-""_""-""",827.623,827623,/var/log/apache2/dashboard.healthit.com-access.log,hyio:nrc:apache:access,NRC-NFS,,3.209.42.218,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/datadashboard/data/state-policy-levers-activities.xml,Apache,Apache Web Server,HTTP/1.0
+"[12/Oct/2019:00:59:30 +0000] 72.66.78.22 ""POST /solr/stage_healthit/update/?commit=true HTTP/1.1"" 200 2907 550 345157 ""-"" ""python-requests/2.22.0""",2019-10-12T00:59:30.000+0000,3457,2907,550,0,12,59,october,30,saturday,2019,0,access_log_event,aws-apache01,POST,-,python-requests/2.22.0,hyio_nrc,1,Web Server,"[//:::_+]_..._""_////?=_/.""_____""-""_""-/..""",345.157,345157,/var/log/apache2/solr.hyioadmin.org-access.log,hyio:nrc:apache:access,NRC-NFS,,72.66.78.22,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/solr/stage_healthit/update/?commit=true,Apache,Apache Web Server,HTTP/1.1
+"[12/Oct/2019:00:59:30 +0000] 72.66.78.22 ""POST /solr/stage_healthit/update/?commit=true HTTP/1.1"" 200 2014 550 334420 ""-"" ""python-requests/2.22.0""",2019-10-12T00:59:30.000+0000,2564,2014,550,0,12,59,october,30,saturday,2019,0,access_log_event,aws-apache01,POST,-,python-requests/2.22.0,hyio_nrc,1,Web Server,"[//:::_+]_..._""_////?=_/.""_____""-""_""-/..""",334.42,334420,/var/log/apache2/solr.hyioadmin.org-access.log,hyio:nrc:apache:access,NRC-NFS,,72.66.78.22,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/solr/stage_healthit/update/?commit=true,Apache,Apache Web Server,HTTP/1.1
+"3.209.42.218 - - [12/Oct/2019:00:59:30 +0000] ""GET /datadashboard/data/state-policy-levers-activities.xml HTTP/1.0"" 302 626 ""-"" ""-""",2019-10-12T00:59:30.000+0000,,,,0,12,59,october,30,saturday,2019,0,access_log_event,aws-apache01,,,,hyio_nrc,1,Web Server,"..._-_-_[//:::_+]_""_///---._/.""___""-""_""-""",,,/var/log/apache2/http-access.log,hyio:nrc:apache:access,NRC-NFS,,,,,,"activity
+inventory
+web","activity
+inventory
+web",44,18,,Apache,Apache Web Server,
+"3.209.42.218 - - [12/Oct/2019:00:59:30 +0000] ""GET /datadashboard/data/professional-2014-edition.xml HTTP/1.0"" 302 616 ""-"" ""-""",2019-10-12T00:59:30.000+0000,,,,0,12,59,october,30,saturday,2019,0,access_log_event,aws-apache01,,,,hyio_nrc,1,Web Server,"..._-_-_[//:::_+]_""_///--._/.""___""-""_""-""",,,/var/log/apache2/http-access.log,hyio:nrc:apache:access,NRC-NFS,,,,,,"activity
+inventory
+web","activity
+inventory
+web",44,18,,Apache,Apache Web Server,
+"3.209.42.218 - - [12/Oct/2019:00:59:30 +0000] ""GET /datadashboard/data/professional-vendor-top5.xml HTTP/1.0"" 302 614 ""-"" ""-""",2019-10-12T00:59:30.000+0000,,,,0,12,59,october,30,saturday,2019,0,access_log_event,aws-apache01,,,,hyio_nrc,1,Web Server,"..._-_-_[//:::_+]_""_///--._/.""___""-""_""-""",,,/var/log/apache2/http-access.log,hyio:nrc:apache:access,NRC-NFS,,,,,,"activity
+inventory
+web","activity
+inventory
+web",44,18,,Apache,Apache Web Server,
+"3.209.42.218 - - [12/Oct/2019:00:59:30 +0000] ""GET /datadashboard/data/hospital-2014-edition.xml HTTP/1.0"" 302 608 ""-"" ""-""",2019-10-12T00:59:30.000+0000,,,,0,12,59,october,30,saturday,2019,0,access_log_event,aws-apache01,,,,hyio_nrc,1,Web Server,"..._-_-_[//:::_+]_""_///--._/.""___""-""_""-""",,,/var/log/apache2/http-access.log,hyio:nrc:apache:access,NRC-NFS,,,,,,"activity
+inventory
+web","activity
+inventory
+web",44,18,,Apache,Apache Web Server,
+"3.209.42.218 - - [12/Oct/2019:00:59:30 +0000] ""GET /datadashboard/data/hospital-vendors-top5.xml HTTP/1.0"" 302 608 ""-"" ""-""",2019-10-12T00:59:30.000+0000,,,,0,12,59,october,30,saturday,2019,0,access_log_event,aws-apache01,,,,hyio_nrc,1,Web Server,"..._-_-_[//:::_+]_""_///--._/.""___""-""_""-""",,,/var/log/apache2/http-access.log,hyio:nrc:apache:access,NRC-NFS,,,,,,"activity
+inventory
+web","activity
+inventory
+web",44,18,,Apache,Apache Web Server,
+"3.209.42.218 - - [12/Oct/2019:00:59:30 +0000] ""GET /datadashboard/data/workforce-programs-trained.xml HTTP/1.0"" 302 618 ""-"" ""-""",2019-10-12T00:59:30.000+0000,,,,0,12,59,october,30,saturday,2019,0,access_log_event,aws-apache01,,,,hyio_nrc,1,Web Server,"..._-_-_[//:::_+]_""_///--._/.""___""-""_""-""",,,/var/log/apache2/http-access.log,hyio:nrc:apache:access,NRC-NFS,,,,,,"activity
+inventory
+web","activity
+inventory
+web",44,18,,Apache,Apache Web Server,
+"3.209.42.218 - - [12/Oct/2019:00:59:30 +0000] ""GET /datadashboard/data/hitech-eval-casestudy-by-state.xml HTTP/1.0"" 302 626 ""-"" ""-""",2019-10-12T00:59:30.000+0000,,,,0,12,59,october,30,saturday,2019,0,access_log_event,aws-apache01,,,,hyio_nrc,1,Web Server,"..._-_-_[//:::_+]_""_///----._/.""___""-""_""-""",,,/var/log/apache2/http-access.log,hyio:nrc:apache:access,NRC-NFS,,,,,,"activity
+inventory
+web","activity
+inventory
+web",44,18,,Apache,Apache Web Server,
+"3.209.42.218 - - [12/Oct/2019:00:59:30 +0000] ""GET /datadashboard/data/ONC_HITECH_Grantee_List.xml HTTP/1.0"" 302 612 ""-"" ""-""",2019-10-12T00:59:30.000+0000,,,,0,12,59,october,30,saturday,2019,0,access_log_event,aws-apache01,,,,hyio_nrc,1,Web Server,"..._-_-_[//:::_+]_""_///._/.""___""-""_""-""",,,/var/log/apache2/http-access.log,hyio:nrc:apache:access,NRC-NFS,,,,,,"activity
+inventory
+web","activity
+inventory
+web",44,18,,Apache,Apache Web Server,
+"3.209.42.218 - - [12/Oct/2019:00:59:30 +0000] ""GET /datadashboard/data/REC_KPI_State.xml HTTP/1.0"" 302 592 ""-"" ""-""",2019-10-12T00:59:30.000+0000,,,,0,12,59,october,30,saturday,2019,0,access_log_event,aws-apache01,,,,hyio_nrc,1,Web Server,"..._-_-_[//:::_+]_""_///._/.""___""-""_""-""",,,/var/log/apache2/http-access.log,hyio:nrc:apache:access,NRC-NFS,,,,,,"activity
+inventory
+web","activity
+inventory
+web",44,18,,Apache,Apache Web Server,
+"3.209.42.218 - - [12/Oct/2019:00:59:30 +0000] ""GET /datadashboard/data/Meaningful-Use-Acceleration-Scorecard.xml HTTP/1.0"" 302 640 ""-"" ""-""",2019-10-12T00:59:30.000+0000,,,,0,12,59,october,30,saturday,2019,0,access_log_event,aws-apache01,,,,hyio_nrc,1,Web Server,"..._-_-_[//:::_+]_""_///---._/.""___""-""_""-""",,,/var/log/apache2/http-access.log,hyio:nrc:apache:access,NRC-NFS,,,,,,"activity
+inventory
+web","activity
+inventory
+web",44,18,,Apache,Apache Web Server,
+"3.209.42.218 - - [12/Oct/2019:00:59:30 +0000] ""GET /datadashboard/data/NEHRS_2008-2017.xml HTTP/1.0"" 302 596 ""-"" ""-""",2019-10-12T00:59:30.000+0000,,,,0,12,59,october,30,saturday,2019,0,access_log_event,aws-apache01,,,,hyio_nrc,1,Web Server,"..._-_-_[//:::_+]_""_///-._/.""___""-""_""-""",,,/var/log/apache2/http-access.log,hyio:nrc:apache:access,NRC-NFS,,,,,,"activity
+inventory
+web","activity
+inventory
+web",44,18,,Apache,Apache Web Server,
+"[12/Oct/2019:00:59:30 +0000] 73.213.216.40 ""GET /en-US/splunkd/__raw/servicesNS/nobody/search/search/jobs/rt_md_1570841904.51?output_mode=json&_=1570841903474 HTTP/1.1"" 200 788 2294 1812 ""-"" ""Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36""",2019-10-12T00:59:30.000+0000,3082,788,2294,0,12,59,october,30,saturday,2019,0,access_log_event,aws-apache01,GET,-,"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36",hyio_nrc,1,Web Server,"[//:::_+]_..._""_/-////////.?=&=_/.""_____""-""_""/._(_",1.812,1812,/var/log/apache2/splunk.hyioadmin.org-access.log,hyio:nrc:apache:access,NRC-NFS,,73.213.216.40,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/en-US/splunkd/__raw/servicesNS/nobody/search/search/jobs/rt_md_1570841904.51?output_mode=json&_=1570841903474,Apache,Apache Web Server,HTTP/1.1
+"[12/Oct/2019:00:59:30 +0000] 3.209.42.218 ""GET /datadashboard/data/professional-2014-edition.xml HTTP/1.0"" 200 787 12203 135382 ""-"" ""-""",2019-10-12T00:59:30.000+0000,12990,787,12203,0,12,59,october,30,saturday,2019,0,access_log_event,aws-apache01,GET,-,-,hyio_nrc,1,Web Server,"[//:::_+]_..._""_///--._/.""_____""-""_""-""",135.382,135382,/var/log/apache2/dashboard.healthit.com-access.log,hyio:nrc:apache:access,NRC-NFS,,3.209.42.218,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/datadashboard/data/professional-2014-edition.xml,Apache,Apache Web Server,HTTP/1.0
+"[12/Oct/2019:00:59:30 +0000] 3.209.42.218 ""GET /datadashboard/data/professional-vendor-top5.xml HTTP/1.0"" 200 786 47682 1474 ""-"" ""-""",2019-10-12T00:59:30.000+0000,48468,786,47682,0,12,59,october,30,saturday,2019,0,access_log_event,aws-apache01,GET,-,-,hyio_nrc,1,Web Server,"[//:::_+]_..._""_///--._/.""_____""-""_""-""",1.474,1474,/var/log/apache2/dashboard.healthit.com-access.log,hyio:nrc:apache:access,NRC-NFS,,3.209.42.218,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/datadashboard/data/professional-vendor-top5.xml,Apache,Apache Web Server,HTTP/1.0
+"[12/Oct/2019:00:59:30 +0000] 3.209.42.218 ""GET /datadashboard/data/hospital-2014-edition.xml HTTP/1.0"" 200 783 11506 843 ""-"" ""-""",2019-10-12T00:59:30.000+0000,12289,783,11506,0,12,59,october,30,saturday,2019,0,access_log_event,aws-apache01,GET,-,-,hyio_nrc,1,Web Server,"[//:::_+]_..._""_///--._/.""_____""-""_""-""",0.843,843,/var/log/apache2/dashboard.healthit.com-access.log,hyio:nrc:apache:access,NRC-NFS,,3.209.42.218,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/datadashboard/data/hospital-2014-edition.xml,Apache,Apache Web Server,HTTP/1.0
+"[12/Oct/2019:00:59:30 +0000] 3.209.42.218 ""GET /datadashboard/data/hospital-vendors-top5.xml HTTP/1.0"" 200 783 45370 882 ""-"" ""-""",2019-10-12T00:59:30.000+0000,46153,783,45370,0,12,59,october,30,saturday,2019,0,access_log_event,aws-apache01,GET,-,-,hyio_nrc,1,Web Server,"[//:::_+]_..._""_///--._/.""_____""-""_""-""",0.882,882,/var/log/apache2/dashboard.healthit.com-access.log,hyio:nrc:apache:access,NRC-NFS,,3.209.42.218,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/datadashboard/data/hospital-vendors-top5.xml,Apache,Apache Web Server,HTTP/1.0
+"[12/Oct/2019:00:59:30 +0000] 3.209.42.218 ""GET /datadashboard/data/workforce-programs-trained.xml HTTP/1.0"" 200 788 46604 900 ""-"" ""-""",2019-10-12T00:59:30.000+0000,47392,788,46604,0,12,59,october,30,saturday,2019,0,access_log_event,aws-apache01,GET,-,-,hyio_nrc,1,Web Server,"[//:::_+]_..._""_///--._/.""_____""-""_""-""",0.9,900,/var/log/apache2/dashboard.healthit.com-access.log,hyio:nrc:apache:access,NRC-NFS,,3.209.42.218,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/datadashboard/data/workforce-programs-trained.xml,Apache,Apache Web Server,HTTP/1.0
+"[12/Oct/2019:00:59:30 +0000] 3.209.42.218 ""GET /datadashboard/data/hitech-eval-casestudy-by-state.xml HTTP/1.0"" 200 792 36819 1296 ""-"" ""-""",2019-10-12T00:59:30.000+0000,37611,792,36819,0,12,59,october,30,saturday,2019,0,access_log_event,aws-apache01,GET,-,-,hyio_nrc,1,Web Server,"[//:::_+]_..._""_///----._/.""_____""-""_""-""",1.296,1296,/var/log/apache2/dashboard.healthit.com-access.log,hyio:nrc:apache:access,NRC-NFS,,3.209.42.218,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/datadashboard/data/hitech-eval-casestudy-by-state.xml,Apache,Apache Web Server,HTTP/1.0
+"[12/Oct/2019:00:59:30 +0000] 3.209.42.218 ""GET /datadashboard/data/ONC_HITECH_Grantee_List.xml HTTP/1.0"" 200 785 233003 2923 ""-"" ""-""",2019-10-12T00:59:30.000+0000,233788,785,233003,0,12,59,october,30,saturday,2019,0,access_log_event,aws-apache01,GET,-,-,hyio_nrc,1,Web Server,"[//:::_+]_..._""_///._/.""_____""-""_""-""",2.923,2923,/var/log/apache2/dashboard.healthit.com-access.log,hyio:nrc:apache:access,NRC-NFS,,3.209.42.218,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/datadashboard/data/ONC_HITECH_Grantee_List.xml,Apache,Apache Web Server,HTTP/1.0
+"[12/Oct/2019:00:59:30 +0000] 3.209.42.218 ""GET /datadashboard/data/REC_KPI_State.xml HTTP/1.0"" 200 775 3568973 52664 ""-"" ""-""",2019-10-12T00:59:30.000+0000,3569748,775,3568973,0,12,59,october,30,saturday,2019,0,access_log_event,aws-apache01,GET,-,-,hyio_nrc,1,Web Server,"[//:::_+]_..._""_///._/.""_____""-""_""-""",52.664,52664,/var/log/apache2/dashboard.healthit.com-access.log,hyio:nrc:apache:access,NRC-NFS,,3.209.42.218,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/datadashboard/data/REC_KPI_State.xml,Apache,Apache Web Server,HTTP/1.0
+"[12/Oct/2019:00:59:30 +0000] 3.209.42.218 ""GET /datadashboard/data/Meaningful-Use-Acceleration-Scorecard.xml HTTP/1.0"" 200 799 140829 1964 ""-"" ""-""",2019-10-12T00:59:30.000+0000,141628,799,140829,0,12,59,october,30,saturday,2019,0,access_log_event,aws-apache01,GET,-,-,hyio_nrc,1,Web Server,"[//:::_+]_..._""_///---._/.""_____""-""_""-""",1.964,1964,/var/log/apache2/dashboard.healthit.com-access.log,hyio:nrc:apache:access,NRC-NFS,,3.209.42.218,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/datadashboard/data/Meaningful-Use-Acceleration-Scorecard.xml,Apache,Apache Web Server,HTTP/1.0
+"[12/Oct/2019:00:59:30 +0000] 3.209.42.218 ""GET /datadashboard/data/NEHRS_2008-2017.xml HTTP/1.0"" 200 777 735325 10727 ""-"" ""-""",2019-10-12T00:59:30.000+0000,736102,777,735325,0,12,59,october,30,saturday,2019,0,access_log_event,aws-apache01,GET,-,-,hyio_nrc,1,Web Server,"[//:::_+]_..._""_///-._/.""_____""-""_""-""",10.727,10727,/var/log/apache2/dashboard.healthit.com-access.log,hyio:nrc:apache:access,NRC-NFS,,3.209.42.218,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/datadashboard/data/NEHRS_2008-2017.xml,Apache,Apache Web Server,HTTP/1.0
+"[12/Oct/2019:00:59:30 +0000] 3.209.42.218 ""GET /datadashboard/data/AHA_2008-2017.xml HTTP/1.0"" 200 775 1210007 19396 ""-"" ""-""",2019-10-12T00:59:30.000+0000,1210782,775,1210007,0,12,59,october,30,saturday,2019,0,access_log_event,aws-apache01,GET,-,-,hyio_nrc,1,Web Server,"[//:::_+]_..._""_///-._/.""_____""-""_""-""",19.396,19396,/var/log/apache2/dashboard.healthit.com-access.log,hyio:nrc:apache:access,NRC-NFS,,3.209.42.218,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/datadashboard/data/AHA_2008-2017.xml,Apache,Apache Web Server,HTTP/1.0
+"[12/Oct/2019:00:59:29 +0000] 72.66.78.22 ""GET /apps/health-information-technology-data-summaries.php HTTP/1.1"" 200 371 6014 1380359 ""https://dashboard.healthit.com/help/dashboard-catalog.php"" ""Scrapy/1.7.3 (+https://scrapy.org)""",2019-10-12T00:59:29.000+0000,6385,371,6014,0,12,59,october,29,saturday,2019,0,access_log_event,aws-apache01,GET,https://dashboard.healthit.com/help/dashboard-catalog.php,Scrapy/1.7.3 (+https://scrapy.org),hyio_nrc,1,Web Server,"[//:::_+]_..._""_//----._/.""_____""://..//-.""_""/.._(",1380.359,1380359,/var/log/apache2/dashboard.healthit.com-access.log,hyio:nrc:apache:access,NRC-NFS,,72.66.78.22,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/apps/health-information-technology-data-summaries.php,Apache,Apache Web Server,HTTP/1.1
+"[12/Oct/2019:00:59:29 +0000] 66.249.66.32 ""GET /ViewItemDetails?system=si&itemKey=50931000 HTTP/1.1"" 200 673 75843 502789 ""-"" ""Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)""",2019-10-12T00:59:29.000+0000,76516,673,75843,0,12,59,october,29,saturday,2019,0,access_log_event,aws-apache01,GET,-,"Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",hyio_nrc,1,Web Server,"[//:::_+]_..._""_/?=&=_/.""_____""-""_""/._(;__..;___/)",502.789,502789,/var/log/apache2/ushik.hyio.com-access.log,hyio:nrc:apache:access,NRC-NFS,,66.249.66.32,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/ViewItemDetails?system=si&itemKey=50931000,Apache,Apache Web Server,HTTP/1.1
+"::1 - - [12/Oct/2019:00:59:29 +0000] ""OPTIONS * HTTP/1.0"" 200 125 ""-"" ""Apache/2.4.7 (Ubuntu) mod_fcgid/2.3.9 PHP/5.5.9-1ubuntu4.29 OpenSSL/1.0.1f (internal dummy connection)""",2019-10-12T00:59:29.000+0000,,,,0,12,59,october,29,saturday,2019,0,access_log_event,aws-apache01,,,,hyio_nrc,1,Web Server,"::_-_-_[//:::_+]_""_*_/.""___""-""_""/.._()_/.._/..-._/",,,/var/log/apache2/access.log,hyio:nrc:apache:access,NRC-NFS,,,,,,"activity
+inventory
+web","activity
+inventory
+web",35,9,,Apache,Apache Web Server,
+"[12/Oct/2019:00:59:29 +0000] 72.66.78.22 ""GET /datadashboard/documentation/physician-health-it-adoption-use-data-documentation.php HTTP/1.1"" 200 401 9189 10102 ""https://dashboard.healthit.com/help/dashboard-catalog.php"" ""Scrapy/1.7.3 (+https://scrapy.org)""",2019-10-12T00:59:29.000+0000,9590,401,9189,0,12,59,october,29,saturday,2019,0,access_log_event,aws-apache01,GET,https://dashboard.healthit.com/help/dashboard-catalog.php,Scrapy/1.7.3 (+https://scrapy.org),hyio_nrc,1,Web Server,"[//:::_+]_..._""_///------._/.""_____""://..//-.""_""/.",10.102,10102,/var/log/apache2/dashboard.healthit.com-access.log,hyio:nrc:apache:access,NRC-NFS,,72.66.78.22,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/datadashboard/documentation/physician-health-it-adoption-use-data-documentation.php,Apache,Apache Web Server,HTTP/1.1
+"[12/Oct/2019:00:59:29 +0000] 72.66.78.22 ""GET /quickstats/pages/consumers-gaps-in-information-exchange.php HTTP/1.1"" 200 377 4421 4528 ""https://dashboard.healthit.com/help/dashboard-catalog.php"" ""Scrapy/1.7.3 (+https://scrapy.org)""",2019-10-12T00:59:29.000+0000,4798,377,4421,0,12,59,october,29,saturday,2019,0,access_log_event,aws-apache01,GET,https://dashboard.healthit.com/help/dashboard-catalog.php,Scrapy/1.7.3 (+https://scrapy.org),hyio_nrc,1,Web Server,"[//:::_+]_..._""_///----._/.""_____""://..//-.""_""/.._",4.528,4528,/var/log/apache2/dashboard.healthit.com-access.log,hyio:nrc:apache:access,NRC-NFS,,72.66.78.22,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/quickstats/pages/consumers-gaps-in-information-exchange.php,Apache,Apache Web Server,HTTP/1.1
+"[12/Oct/2019:00:59:29 +0000] 72.66.78.22 ""GET /apps/physician-health-it-adoption.php HTTP/1.1"" 200 355 5491 4085 ""https://dashboard.healthit.com/help/dashboard-catalog.php"" ""Scrapy/1.7.3 (+https://scrapy.org)""",2019-10-12T00:59:29.000+0000,5846,355,5491,0,12,59,october,29,saturday,2019,0,access_log_event,aws-apache01,GET,https://dashboard.healthit.com/help/dashboard-catalog.php,Scrapy/1.7.3 (+https://scrapy.org),hyio_nrc,1,Web Server,"[//:::_+]_..._""_//---._/.""_____""://..//-.""_""/.._(+",4.085,4085,/var/log/apache2/dashboard.healthit.com-access.log,hyio:nrc:apache:access,NRC-NFS,,72.66.78.22,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/apps/physician-health-it-adoption.php,Apache,Apache Web Server,HTTP/1.1
+"[12/Oct/2019:00:59:29 +0000] 72.66.78.22 ""POST /solr/stage_healthit/update/?commit=true HTTP/1.1"" 200 3008 550 340844 ""-"" ""python-requests/2.22.0""",2019-10-12T00:59:29.000+0000,3558,3008,550,0,12,59,october,29,saturday,2019,0,access_log_event,aws-apache01,POST,-,python-requests/2.22.0,hyio_nrc,1,Web Server,"[//:::_+]_..._""_////?=_/.""_____""-""_""-/..""",340.844,340844,/var/log/apache2/solr.hyioadmin.org-access.log,hyio:nrc:apache:access,NRC-NFS,,72.66.78.22,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/solr/stage_healthit/update/?commit=true,Apache,Apache Web Server,HTTP/1.1
+"[12/Oct/2019:00:59:29 +0000] 72.66.78.22 ""POST /solr/stage_healthit/update/?commit=true HTTP/1.1"" 200 2437 549 341406 ""-"" ""python-requests/2.22.0""",2019-10-12T00:59:29.000+0000,2986,2437,549,0,12,59,october,29,saturday,2019,0,access_log_event,aws-apache01,POST,-,python-requests/2.22.0,hyio_nrc,1,Web Server,"[//:::_+]_..._""_////?=_/.""_____""-""_""-/..""",341.406,341406,/var/log/apache2/solr.hyioadmin.org-access.log,hyio:nrc:apache:access,NRC-NFS,,72.66.78.22,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/solr/stage_healthit/update/?commit=true,Apache,Apache Web Server,HTTP/1.1
+"[12/Oct/2019:00:59:29 +0000] 72.66.78.22 ""POST /solr/stage_healthit/update/?commit=true HTTP/1.1"" 200 5585 550 360193 ""-"" ""python-requests/2.22.0""",2019-10-12T00:59:29.000+0000,6135,5585,550,0,12,59,october,29,saturday,2019,0,access_log_event,aws-apache01,POST,-,python-requests/2.22.0,hyio_nrc,1,Web Server,"[//:::_+]_..._""_////?=_/.""_____""-""_""-/..""",360.193,360193,/var/log/apache2/solr.hyioadmin.org-access.log,hyio:nrc:apache:access,NRC-NFS,,72.66.78.22,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/solr/stage_healthit/update/?commit=true,Apache,Apache Web Server,HTTP/1.1
+"[12/Oct/2019:00:59:29 +0000] 54.183.255.161 ""GET /support/rest/applinks/latest/manifest HTTP/1.1"" 200 694 8479 2710 ""-"" ""Amazon-Route53-Health-Check-Service (ref abb692bc-19c6-4a13-b1ed-4225f2b3ad43; report http://amzn.to/1vsZADi)""",2019-10-12T00:59:29.000+0000,9173,694,8479,0,12,59,october,29,saturday,2019,0,access_log_event,aws-apache01,GET,-,Amazon-Route53-Health-Check-Service (ref abb692bc-19c6-4a13-b1ed-4225f2b3ad43; report http://amzn.to/1vsZADi),hyio_nrc,1,Web Server,"[//:::_+]_..._""_/////_/.""_____""-""_""----_(_----;__:",2.71,2710,/var/log/apache2/oncprojectracking.healthit.com-access.log,hyio:nrc:apache:access,NRC-NFS,,54.183.255.161,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/support/rest/applinks/latest/manifest,Apache,Apache Web Server,HTTP/1.1
+"3.209.42.218 - - [12/Oct/2019:00:59:29 +0000] ""GET /datadashboard/data/AHA_2008-2017.xml HTTP/1.0"" 302 592 ""-"" ""-""",2019-10-12T00:59:29.000+0000,,,,0,12,59,october,29,saturday,2019,0,access_log_event,aws-apache01,,,,hyio_nrc,1,Web Server,"..._-_-_[//:::_+]_""_///-._/.""___""-""_""-""",,,/var/log/apache2/http-access.log,hyio:nrc:apache:access,NRC-NFS,,,,,,"activity
+inventory
+web","activity
+inventory
+web",44,18,,Apache,Apache Web Server,
+"[12/Oct/2019:00:59:29 +0000] 41.39.175.150 ""GET /user/login HTTP/1.1"" 200 781 17477 43111 ""-"" ""Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2856.88 Safari/537.36""",2019-10-12T00:59:29.000+0000,18258,781,17477,0,12,59,october,29,saturday,2019,0,access_log_event,aws-apache01,GET,-,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2856.88 Safari/537.36",hyio_nrc,1,Web Server,"[//:::_+]_..._""_//_/.""_____""-""_""/._(;_____)_/._(,_",43.111,43111,/var/log/apache2/cds.hyio.com-access.log,hyio:nrc:apache:access,NRC-NFS,,41.39.175.150,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/user/login,Apache,Apache Web Server,HTTP/1.1
+"[12/Oct/2019:00:59:28 +0000] 72.66.78.22 ""POST /solr/stage_healthit/update/?commit=true HTTP/1.1"" 200 727 550 344197 ""-"" ""python-requests/2.22.0""",2019-10-12T00:59:28.000+0000,1277,727,550,0,12,59,october,28,saturday,2019,0,access_log_event,aws-apache01,POST,-,python-requests/2.22.0,hyio_nrc,1,Web Server,"[//:::_+]_..._""_////?=_/.""_____""-""_""-/..""",344.197,344197,/var/log/apache2/solr.hyioadmin.org-access.log,hyio:nrc:apache:access,NRC-NFS,,72.66.78.22,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/solr/stage_healthit/update/?commit=true,Apache,Apache Web Server,HTTP/1.1
+"[12/Oct/2019:00:59:28 +0000] 72.66.78.22 ""POST /solr/stage_healthit/update/?commit=true HTTP/1.1"" 200 1589 549 351105 ""-"" ""python-requests/2.22.0""",2019-10-12T00:59:28.000+0000,2138,1589,549,0,12,59,october,28,saturday,2019,0,access_log_event,aws-apache01,POST,-,python-requests/2.22.0,hyio_nrc,1,Web Server,"[//:::_+]_..._""_////?=_/.""_____""-""_""-/..""",351.105,351105,/var/log/apache2/solr.hyioadmin.org-access.log,hyio:nrc:apache:access,NRC-NFS,,72.66.78.22,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/solr/stage_healthit/update/?commit=true,Apache,Apache Web Server,HTTP/1.1
+"::1 - - [12/Oct/2019:00:59:28 +0000] ""OPTIONS * HTTP/1.0"" 200 125 ""-"" ""Apache/2.4.7 (Ubuntu) mod_fcgid/2.3.9 PHP/5.5.9-1ubuntu4.29 OpenSSL/1.0.1f (internal dummy connection)""",2019-10-12T00:59:28.000+0000,,,,0,12,59,october,28,saturday,2019,0,access_log_event,aws-apache01,,,,hyio_nrc,1,Web Server,"::_-_-_[//:::_+]_""_*_/.""___""-""_""/.._()_/.._/..-._/",,,/var/log/apache2/access.log,hyio:nrc:apache:access,NRC-NFS,,,,,,"activity
+inventory
+web","activity
+inventory
+web",35,9,,Apache,Apache Web Server,
+"[12/Oct/2019:00:59:27 +0000] 72.66.78.22 ""POST /solr/stage_healthit/update/?commit=true HTTP/1.1"" 200 4401 550 414513 ""-"" ""python-requests/2.22.0""",2019-10-12T00:59:27.000+0000,4951,4401,550,0,12,59,october,27,saturday,2019,0,access_log_event,aws-apache01,POST,-,python-requests/2.22.0,hyio_nrc,1,Web Server,"[//:::_+]_..._""_////?=_/.""_____""-""_""-/..""",414.513,414513,/var/log/apache2/solr.hyioadmin.org-access.log,hyio:nrc:apache:access,NRC-NFS,,72.66.78.22,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/solr/stage_healthit/update/?commit=true,Apache,Apache Web Server,HTTP/1.1
+"[12/Oct/2019:00:59:27 +0000] 18.210.189.71 ""GET / HTTP/1.1"" 301 609 6129 390 ""http://healthit.com/"" ""Uptime/v2 (https://www.acquia.com)""",2019-10-12T00:59:27.000+0000,6738,609,6129,0,12,59,october,27,saturday,2019,0,access_log_event,aws-apache01,GET,http://healthit.com/,Uptime/v2 (https://www.acquia.com),hyio_nrc,1,Web Server,"[//:::_+]_..._""_/_/.""_____""://./""_""/_(://..)""",0.39,390,/var/log/apache2/healthit.com-access.log,hyio:nrc:apache:access,NRC-NFS,,18.210.189.71,301,Moved Permanently,Redirection,"activity
+inventory
+web","activity
+inventory
+web",27,1,/,Apache,Apache Web Server,HTTP/1.1
+"18.210.189.71 - - [12/Oct/2019:00:59:27 +0000] ""GET / HTTP/1.1"" 302 490 ""-"" ""Uptime/v2 (https://www.acquia.com)""",2019-10-12T00:59:27.000+0000,,,,0,12,59,october,27,saturday,2019,0,access_log_event,aws-apache01,,,,hyio_nrc,1,Web Server,"..._-_-_[//:::_+]_""_/_/.""___""-""_""/_(://..)""",,,/var/log/apache2/http-access.log,hyio:nrc:apache:access,NRC-NFS,,,,,,"activity
+inventory
+web","activity
+inventory
+web",45,19,,Apache,Apache Web Server,
+"[12/Oct/2019:00:59:27 +0000] 73.213.216.40 ""GET /en-US/splunkd/__raw/servicesNS/nobody/search/search/jobs/rt_md_1570841904.51?output_mode=json&_=1570841903473 HTTP/1.1"" 200 788 2288 1769 ""-"" ""Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36""",2019-10-12T00:59:27.000+0000,3076,788,2288,0,12,59,october,27,saturday,2019,0,access_log_event,aws-apache01,GET,-,"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36",hyio_nrc,1,Web Server,"[//:::_+]_..._""_/-////////.?=&=_/.""_____""-""_""/._(_",1.769,1769,/var/log/apache2/splunk.hyioadmin.org-access.log,hyio:nrc:apache:access,NRC-NFS,,73.213.216.40,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/en-US/splunkd/__raw/servicesNS/nobody/search/search/jobs/rt_md_1570841904.51?output_mode=json&_=1570841903473,Apache,Apache Web Server,HTTP/1.1
+"[12/Oct/2019:00:59:27 +0000] 73.213.216.40 ""POST /en-US/splunkd/__raw/servicesNS/nobody/search/search/jobs/1570841909.52/control HTTP/1.1"" 200 950 944 1618 ""-"" ""Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36""",2019-10-12T00:59:27.000+0000,1894,950,944,0,12,59,october,27,saturday,2019,0,access_log_event,aws-apache01,POST,-,"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36",hyio_nrc,1,Web Server,"[//:::_+]_..._""_/-////////./_/.""_____""-""_""/._(__.;",1.618,1618,/var/log/apache2/splunk.hyioadmin.org-access.log,hyio:nrc:apache:access,NRC-NFS,,73.213.216.40,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/en-US/splunkd/__raw/servicesNS/nobody/search/search/jobs/1570841909.52/control,Apache,Apache Web Server,HTTP/1.1
+"[12/Oct/2019:00:59:27 +0000] 54.213.57.151 ""GET /rest/feature-flags HTTP/1.1"" 200 1172 1529 10197 ""https://chpl.hyiodev.org/"" ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36""",2019-10-12T00:59:27.000+0000,2701,1172,1529,0,12,59,october,27,saturday,2019,0,access_log_event,aws-apache01,GET,https://chpl.hyiodev.org/,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36",hyio_nrc,1,Web Server,"[//:::_+]_..._""_//-_/.""_____""://../""_""/._(;__)_/._",10.197,10197,/var/log/apache2/chpl.hyiodev.org-access.log,hyio:nrc:apache:access,NRC-NFS,,54.213.57.151,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/rest/feature-flags,Apache,Apache Web Server,HTTP/1.1
+"[12/Oct/2019:00:59:27 +0000] 66.249.66.32 ""GET /ViewItemDetails?system=si&itemKey=76699000 HTTP/1.1"" 200 673 63875 346984 ""-"" ""Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)""",2019-10-12T00:59:27.000+0000,64548,673,63875,0,12,59,october,27,saturday,2019,0,access_log_event,aws-apache01,GET,-,"Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",hyio_nrc,1,Web Server,"[//:::_+]_..._""_/?=&=_/.""_____""-""_""/._(;__..;___/)",346.984,346984,/var/log/apache2/ushik.hyio.com-access.log,hyio:nrc:apache:access,NRC-NFS,,66.249.66.32,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/ViewItemDetails?system=si&itemKey=76699000,Apache,Apache Web Server,HTTP/1.1
+"[12/Oct/2019:00:59:27 +0000] 72.66.78.22 ""GET /quickstats/pages/physician-ehr-adoption-trends.php HTTP/1.1"" 200 368 6973 20257 ""https://dashboard.healthit.com/help/dashboard-catalog.php"" ""Scrapy/1.7.3 (+https://scrapy.org)""",2019-10-12T00:59:27.000+0000,7341,368,6973,0,12,59,october,27,saturday,2019,0,access_log_event,aws-apache01,GET,https://dashboard.healthit.com/help/dashboard-catalog.php,Scrapy/1.7.3 (+https://scrapy.org),hyio_nrc,1,Web Server,"[//:::_+]_..._""_///---._/.""_____""://..//-.""_""/.._(",20.257,20257,/var/log/apache2/dashboard.healthit.com-access.log,hyio:nrc:apache:access,NRC-NFS,,72.66.78.22,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/quickstats/pages/physician-ehr-adoption-trends.php,Apache,Apache Web Server,HTTP/1.1
+"[12/Oct/2019:00:59:27 +0000] 72.66.78.22 ""GET /datadashboard/documentation/ehr-products-mu-attestation-data-documentation.php HTTP/1.1"" 200 396 9292 19351 ""https://dashboard.healthit.com/help/dashboard-catalog.php"" ""Scrapy/1.7.3 (+https://scrapy.org)""",2019-10-12T00:59:27.000+0000,9688,396,9292,0,12,59,october,27,saturday,2019,0,access_log_event,aws-apache01,GET,https://dashboard.healthit.com/help/dashboard-catalog.php,Scrapy/1.7.3 (+https://scrapy.org),hyio_nrc,1,Web Server,"[//:::_+]_..._""_///-----._/.""_____""://..//-.""_""/..",19.351,19351,/var/log/apache2/dashboard.healthit.com-access.log,hyio:nrc:apache:access,NRC-NFS,,72.66.78.22,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/datadashboard/documentation/ehr-products-mu-attestation-data-documentation.php,Apache,Apache Web Server,HTTP/1.1
+"[12/Oct/2019:00:59:27 +0000] 72.66.78.22 ""GET /datadashboard/documentation/2015-edition-market-readiness-hospitals-clinicians-data-documentation.php HTTP/1.1"" 200 419 6199 19283 ""https://dashboard.healthit.com/help/dashboard-catalog.php"" ""Scrapy/1.7.3 (+https://scrapy.org)""",2019-10-12T00:59:27.000+0000,6618,419,6199,0,12,59,october,27,saturday,2019,0,access_log_event,aws-apache01,GET,https://dashboard.healthit.com/help/dashboard-catalog.php,Scrapy/1.7.3 (+https://scrapy.org),hyio_nrc,1,Web Server,"[//:::_+]_..._""_///-------._/.""_____""://..//-.""_""/",19.283,19283,/var/log/apache2/dashboard.healthit.com-access.log,hyio:nrc:apache:access,NRC-NFS,,72.66.78.22,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/datadashboard/documentation/2015-edition-market-readiness-hospitals-clinicians-data-documentation.php,Apache,Apache Web Server,HTTP/1.1
+"[12/Oct/2019:00:59:27 +0000] 72.66.78.22 ""GET /datadashboard/documentation/hospital-health-it-adoption-use-data-documentation.php HTTP/1.1"" 200 400 8506 15482 ""https://dashboard.healthit.com/help/dashboard-catalog.php"" ""Scrapy/1.7.3 (+https://scrapy.org)""",2019-10-12T00:59:27.000+0000,8906,400,8506,0,12,59,october,27,saturday,2019,0,access_log_event,aws-apache01,GET,https://dashboard.healthit.com/help/dashboard-catalog.php,Scrapy/1.7.3 (+https://scrapy.org),hyio_nrc,1,Web Server,"[//:::_+]_..._""_///------._/.""_____""://..//-.""_""/.",15.482,15482,/var/log/apache2/dashboard.healthit.com-access.log,hyio:nrc:apache:access,NRC-NFS,,72.66.78.22,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/datadashboard/documentation/hospital-health-it-adoption-use-data-documentation.php,Apache,Apache Web Server,HTTP/1.1
+"[12/Oct/2019:00:59:27 +0000] 72.66.78.22 ""GET /quickstats/pages/2015-edition-market-readiness-hospitals-clinicians.php HTTP/1.1"" 200 389 11133 7802 ""https://dashboard.healthit.com/help/dashboard-catalog.php"" ""Scrapy/1.7.3 (+https://scrapy.org)""",2019-10-12T00:59:27.000+0000,11522,389,11133,0,12,59,october,27,saturday,2019,0,access_log_event,aws-apache01,GET,https://dashboard.healthit.com/help/dashboard-catalog.php,Scrapy/1.7.3 (+https://scrapy.org),hyio_nrc,1,Web Server,"[//:::_+]_..._""_///-----._/.""_____""://..//-.""_""/..",7.802,7802,/var/log/apache2/dashboard.healthit.com-access.log,hyio:nrc:apache:access,NRC-NFS,,72.66.78.22,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/quickstats/pages/2015-edition-market-readiness-hospitals-clinicians.php,Apache,Apache Web Server,HTTP/1.1
+"[12/Oct/2019:00:59:27 +0000] 72.66.78.22 ""GET /apps/hospital-health-it-adoption.php HTTP/1.1"" 200 354 5788 7285 ""https://dashboard.healthit.com/help/dashboard-catalog.php"" ""Scrapy/1.7.3 (+https://scrapy.org)""",2019-10-12T00:59:27.000+0000,6142,354,5788,0,12,59,october,27,saturday,2019,0,access_log_event,aws-apache01,GET,https://dashboard.healthit.com/help/dashboard-catalog.php,Scrapy/1.7.3 (+https://scrapy.org),hyio_nrc,1,Web Server,"[//:::_+]_..._""_//---._/.""_____""://..//-.""_""/.._(+",7.285,7285,/var/log/apache2/dashboard.healthit.com-access.log,hyio:nrc:apache:access,NRC-NFS,,72.66.78.22,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/apps/hospital-health-it-adoption.php,Apache,Apache Web Server,HTTP/1.1
+"[12/Oct/2019:00:59:27 +0000] 72.66.78.22 ""GET /quickstats/pages/certified-electronic-health-record-technology-in-hospitals.php HTTP/1.1"" 200 397 6354 1266 ""https://dashboard.healthit.com/help/dashboard-catalog.php"" ""Scrapy/1.7.3 (+https://scrapy.org)""",2019-10-12T00:59:27.000+0000,6751,397,6354,0,12,59,october,27,saturday,2019,0,access_log_event,aws-apache01,GET,https://dashboard.healthit.com/help/dashboard-catalog.php,Scrapy/1.7.3 (+https://scrapy.org),hyio_nrc,1,Web Server,"[//:::_+]_..._""_///------._/.""_____""://..//-.""_""/.",1.266,1266,/var/log/apache2/dashboard.healthit.com-access.log,hyio:nrc:apache:access,NRC-NFS,,72.66.78.22,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/quickstats/pages/certified-electronic-health-record-technology-in-hospitals.php,Apache,Apache Web Server,HTTP/1.1
+"[12/Oct/2019:00:59:27 +0000] 72.66.78.22 ""GET /evaluations/faca/HITJC_%20Data_Update_on_Interoperability_2016-07-27.pdf HTTP/1.1"" 200 390 746203 333193 ""https://dashboard.healthit.com/help/dashboard-catalog.php"" ""Scrapy/1.7.3 (+https://scrapy.org)""",2019-10-12T00:59:27.000+0000,746593,390,746203,0,12,59,october,27,saturday,2019,0,access_log_event,aws-apache01,GET,https://dashboard.healthit.com/help/dashboard-catalog.php,Scrapy/1.7.3 (+https://scrapy.org),hyio_nrc,1,Web Server,"[//:::_+]_..._""_///%--._/.""_____""://..//-.""_""/.._(",333.193,333193,/var/log/apache2/dashboard.healthit.com-access.log,hyio:nrc:apache:access,NRC-NFS,,72.66.78.22,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/evaluations/faca/HITJC_%20Data_Update_on_Interoperability_2016-07-27.pdf,Apache,Apache Web Server,HTTP/1.1
+"[12/Oct/2019:00:59:27 +0000] 72.66.78.22 ""GET /datadashboard/documentation/cms-ehr-incentive-program-measures-documentation.php HTTP/1.1"" 200 398 6850 9854 ""https://dashboard.healthit.com/help/dashboard-catalog.php"" ""Scrapy/1.7.3 (+https://scrapy.org)""",2019-10-12T00:59:27.000+0000,7248,398,6850,0,12,59,october,27,saturday,2019,0,access_log_event,aws-apache01,GET,https://dashboard.healthit.com/help/dashboard-catalog.php,Scrapy/1.7.3 (+https://scrapy.org),hyio_nrc,1,Web Server,"[//:::_+]_..._""_///-----._/.""_____""://..//-.""_""/..",9.854,9854,/var/log/apache2/dashboard.healthit.com-access.log,hyio:nrc:apache:access,NRC-NFS,,72.66.78.22,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/datadashboard/documentation/cms-ehr-incentive-program-measures-documentation.php,Apache,Apache Web Server,HTTP/1.1
+"[12/Oct/2019:00:59:27 +0000] 72.66.78.22 ""GET /quickstats/pages/FIG-Hospitals-EHR-Incentive-Programs.php HTTP/1.1"" 200 375 6718 5286 ""https://dashboard.healthit.com/help/dashboard-catalog.php"" ""Scrapy/1.7.3 (+https://scrapy.org)""",2019-10-12T00:59:27.000+0000,7093,375,6718,0,12,59,october,27,saturday,2019,0,access_log_event,aws-apache01,GET,https://dashboard.healthit.com/help/dashboard-catalog.php,Scrapy/1.7.3 (+https://scrapy.org),hyio_nrc,1,Web Server,"[//:::_+]_..._""_///----._/.""_____""://..//-.""_""/.._",5.286,5286,/var/log/apache2/dashboard.healthit.com-access.log,hyio:nrc:apache:access,NRC-NFS,,72.66.78.22,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/quickstats/pages/FIG-Hospitals-EHR-Incentive-Programs.php,Apache,Apache Web Server,HTTP/1.1
+"[12/Oct/2019:00:59:27 +0000] 72.66.78.22 ""GET /quickstats/pages/FIG-Hospital-Progress-to-Meaningful-Use-by-size-practice-setting-area-type.php HTTP/1.1"" 200 413 6647 4746 ""https://dashboard.healthit.com/help/dashboard-catalog.php"" ""Scrapy/1.7.3 (+https://scrapy.org)""",2019-10-12T00:59:27.000+0000,7060,413,6647,0,12,59,october,27,saturday,2019,0,access_log_event,aws-apache01,GET,https://dashboard.healthit.com/help/dashboard-catalog.php,Scrapy/1.7.3 (+https://scrapy.org),hyio_nrc,1,Web Server,"[//:::_+]_..._""_///-----------._/.""_____""://..//-.",4.746,4746,/var/log/apache2/dashboard.healthit.com-access.log,hyio:nrc:apache:access,NRC-NFS,,72.66.78.22,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/quickstats/pages/FIG-Hospital-Progress-to-Meaningful-Use-by-size-practice-setting-area-type.php,Apache,Apache Web Server,HTTP/1.1
+"[12/Oct/2019:00:59:27 +0000] 72.66.78.22 ""GET /quickstats/pages/FIG-Hospital-EHR-Adoption.php HTTP/1.1"" 200 364 7622 4081 ""https://dashboard.healthit.com/help/dashboard-catalog.php"" ""Scrapy/1.7.3 (+https://scrapy.org)""",2019-10-12T00:59:27.000+0000,7986,364,7622,0,12,59,october,27,saturday,2019,0,access_log_event,aws-apache01,GET,https://dashboard.healthit.com/help/dashboard-catalog.php,Scrapy/1.7.3 (+https://scrapy.org),hyio_nrc,1,Web Server,"[//:::_+]_..._""_///---._/.""_____""://..//-.""_""/.._(",4.081,4081,/var/log/apache2/dashboard.healthit.com-access.log,hyio:nrc:apache:access,NRC-NFS,,72.66.78.22,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/quickstats/pages/FIG-Hospital-EHR-Adoption.php,Apache,Apache Web Server,HTTP/1.1
+"[12/Oct/2019:00:59:27 +0000] 72.66.78.22 ""GET /quickstats/pages/consumers-health-care-charges-costs-online.php HTTP/1.1"" 200 381 4600 3441 ""https://dashboard.healthit.com/help/dashboard-catalog.php"" ""Scrapy/1.7.3 (+https://scrapy.org)""",2019-10-12T00:59:27.000+0000,4981,381,4600,0,12,59,october,27,saturday,2019,0,access_log_event,aws-apache01,GET,https://dashboard.healthit.com/help/dashboard-catalog.php,Scrapy/1.7.3 (+https://scrapy.org),hyio_nrc,1,Web Server,"[//:::_+]_..._""_///-----._/.""_____""://..//-.""_""/..",3.441,3441,/var/log/apache2/dashboard.healthit.com-access.log,hyio:nrc:apache:access,NRC-NFS,,72.66.78.22,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/quickstats/pages/consumers-health-care-charges-costs-online.php,Apache,Apache Web Server,HTTP/1.1
+"[12/Oct/2019:00:59:27 +0000] 72.66.78.22 ""GET /evaluations/data-briefs/electronic-health-record-adoption-interoperability-nursing-facilities-2016.php%20 HTTP/1.1"" 404 423 576 1946 ""https://dashboard.healthit.com/help/dashboard-catalog.php"" ""Scrapy/1.7.3 (+https://scrapy.org)""",2019-10-12T00:59:27.000+0000,999,423,576,0,12,59,october,27,saturday,2019,0,access_log_event,aws-apache01,GET,https://dashboard.healthit.com/help/dashboard-catalog.php,Scrapy/1.7.3 (+https://scrapy.org),hyio_nrc,1,Web Server,"[//:::_+]_..._""_//-/-------.%_/.""_____""://..//-.""_",1.946,1946,/var/log/apache2/dashboard.healthit.com-access.log,hyio:nrc:apache:access,NRC-NFS,,72.66.78.22,404,Not Found,Client Error,"activity
+inventory
+web","activity
+inventory
+web",27,1,/evaluations/data-briefs/electronic-health-record-adoption-interoperability-nursing-facilities-2016.php%20,Apache,Apache Web Server,HTTP/1.1
+"[12/Oct/2019:00:59:27 +0000] 72.66.78.22 ""GET /quickstats/pages/FIG-Health-Care-Professionals-EHR-Incentive-Programs.php HTTP/1.1"" 200 391 6846 1967 ""https://dashboard.healthit.com/help/dashboard-catalog.php"" ""Scrapy/1.7.3 (+https://scrapy.org)""",2019-10-12T00:59:27.000+0000,7237,391,6846,0,12,59,october,27,saturday,2019,0,access_log_event,aws-apache01,GET,https://dashboard.healthit.com/help/dashboard-catalog.php,Scrapy/1.7.3 (+https://scrapy.org),hyio_nrc,1,Web Server,"[//:::_+]_..._""_///------._/.""_____""://..//-.""_""/.",1.967,1967,/var/log/apache2/dashboard.healthit.com-access.log,hyio:nrc:apache:access,NRC-NFS,,72.66.78.22,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/quickstats/pages/FIG-Health-Care-Professionals-EHR-Incentive-Programs.php,Apache,Apache Web Server,HTTP/1.1
+"[12/Oct/2019:00:59:27 +0000] 72.66.78.22 ""POST /solr/stage_healthit/update/?commit=true HTTP/1.1"" 200 5645 550 545234 ""-"" ""python-requests/2.22.0""",2019-10-12T00:59:27.000+0000,6195,5645,550,0,12,59,october,27,saturday,2019,0,access_log_event,aws-apache01,POST,-,python-requests/2.22.0,hyio_nrc,1,Web Server,"[//:::_+]_..._""_////?=_/.""_____""-""_""-/..""",545.234,545234,/var/log/apache2/solr.hyioadmin.org-access.log,hyio:nrc:apache:access,NRC-NFS,,72.66.78.22,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/solr/stage_healthit/update/?commit=true,Apache,Apache Web Server,HTTP/1.1
+"[12/Oct/2019:00:59:27 +0000] 18.210.189.71 ""GET /system/acquia-connector-status?key=7b37d4f66dc578dfe796c2ecd86797099e18bcee&nonce=c1735a01bb21d034ea30c6e7600874848a2c8bf31737274d5eb1d2340bc5c548&stamp=1570841958262 HTTP/1.1"" 301 941 6469 423 ""http://healthit.com/system/acquia-connector-status?key=7b37d4f66dc578dfe796c2ecd86797099e18bcee&nonce=c1735a01bb21d034ea30c6e7600874848a2c8bf31737274d5eb1d2340bc5c548&stamp=1570841958262"" ""Uptime/v2 (https://www.acquia.com)""",2019-10-12T00:59:27.000+0000,7410,941,6469,0,12,59,october,27,saturday,2019,0,access_log_event,aws-apache01,GET,http://healthit.com/system/acquia-connector-status?key=7b37d4f66dc578dfe796c2ecd86797099e18bcee&nonce=c1735a01bb21d034ea30c6e7600874848a2c8bf31737274d5eb1d2340bc5c548&stamp=1570841958262,Uptime/v2 (https://www.acquia.com),hyio_nrc,1,Web Server,"[//:::_+]_..._""_//--?=&=&=_/.""_____""://.//--?=&=&=",0.423,423,/var/log/apache2/healthit.com-access.log,hyio:nrc:apache:access,NRC-NFS,,18.210.189.71,301,Moved Permanently,Redirection,"activity
+inventory
+web","activity
+inventory
+web",27,1,/system/acquia-connector-status?key=7b37d4f66dc578dfe796c2ecd86797099e18bcee&nonce=c1735a01bb21d034ea30c6e7600874848a2c8bf31737274d5eb1d2340bc5c548&stamp=1570841958262,Apache,Apache Web Server,HTTP/1.1
+"18.210.189.71 - - [12/Oct/2019:00:59:27 +0000] ""GET /system/acquia-connector-status?key=7b37d4f66dc578dfe796c2ecd86797099e18bcee&nonce=c1735a01bb21d034ea30c6e7600874848a2c8bf31737274d5eb1d2340bc5c548&stamp=1570841958262 HTTP/1.1"" 302 830 ""-"" ""Uptime/v2 (https://www.acquia.com)""",2019-10-12T00:59:27.000+0000,,,,0,12,59,october,27,saturday,2019,0,access_log_event,aws-apache01,,,,hyio_nrc,1,Web Server,"..._-_-_[//:::_+]_""_//--?=&=&=_/.""___""-""_""/_(://..",,,/var/log/apache2/http-access.log,hyio:nrc:apache:access,NRC-NFS,,,,,,"activity
+inventory
+web","activity
+inventory
+web",45,19,,Apache,Apache Web Server,
+"[12/Oct/2019:00:59:26 +0000] 72.66.78.22 ""POST /solr/stage_healthit/update/?commit=true HTTP/1.1"" 200 3765 550 334956 ""-"" ""python-requests/2.22.0""",2019-10-12T00:59:26.000+0000,4315,3765,550,0,12,59,october,26,saturday,2019,0,access_log_event,aws-apache01,POST,-,python-requests/2.22.0,hyio_nrc,1,Web Server,"[//:::_+]_..._""_////?=_/.""_____""-""_""-/..""",334.956,334956,/var/log/apache2/solr.hyioadmin.org-access.log,hyio:nrc:apache:access,NRC-NFS,,72.66.78.22,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/solr/stage_healthit/update/?commit=true,Apache,Apache Web Server,HTTP/1.1
+"[12/Oct/2019:00:59:26 +0000] 72.66.78.22 ""POST /solr/stage_healthit/update/?commit=true HTTP/1.1"" 200 3945 550 333923 ""-"" ""python-requests/2.22.0""",2019-10-12T00:59:26.000+0000,4495,3945,550,0,12,59,october,26,saturday,2019,0,access_log_event,aws-apache01,POST,-,python-requests/2.22.0,hyio_nrc,1,Web Server,"[//:::_+]_..._""_////?=_/.""_____""-""_""-/..""",333.923,333923,/var/log/apache2/solr.hyioadmin.org-access.log,hyio:nrc:apache:access,NRC-NFS,,72.66.78.22,200,OK,Successful,"activity
+inventory
+web","activity
+inventory
+web",27,1,/solr/stage_healthit/update/?commit=true,Apache,Apache Web Server,HTTP/1.1
